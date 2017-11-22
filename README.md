@@ -1,21 +1,15 @@
-# PlymioAstVorm
+# README
 
-**TODO: Add description**
+**plymio\_ast\_vorm**: Managing a Collection of Quoted Forms (Asts)
 
 ## Installation
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `plymio_ast_vorm` to your list of dependencies in `mix.exs`:
+Add **plymio\_ast\_vorm** to your list of dependencies in <span class="underline">mix.exs</span>:
 
-```elixir
-def deps do
-  [
-    {:plymio_ast_vorm, "~> 0.1.0"}
-  ]
-end
-```
+    def deps do
+      [{:plymio_ast_vorm, "~> 0.1.0"}]
+    end
 
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/plymio_ast_vorm](https://hexdocs.pm/plymio_ast_vorm).
+## Examples
 
+See the example in the [API Reference](https://hexdocs.pm/plymio_ast_vorm/api-reference.html)

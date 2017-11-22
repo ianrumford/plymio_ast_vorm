@@ -1,0 +1,5 @@
+%{"earmark": {:hex, :earmark, "1.2.3", "206eb2e2ac1a794aa5256f3982de7a76bf4579ff91cb28d0e17ea2c9491e46a4", [:mix], []},
+  "ex_doc": {:hex, :ex_doc, "0.18.1", "37c69d2ef62f24928c1f4fdc7c724ea04aecfdf500c4329185f8e3649c915baf", [:mix], [{:earmark, "~> 1.1", [hex: :earmark, optional: false]}]},
+  "harnais": {:hex, :harnais, "0.2.0", "46dc573033c386586a0b0fc8a323e78c998ea7866601b22b907637f61f8712c1", [:mix], []},
+  "plymio_ast": {:hex, :plymio_ast, "1.0.0", "33ed380f46a196511adb13f0433843c5222219cc6c11b7a42bdbd91837b11434", [:mix], []},
+  "plymio_option": {:hex, :plymio_option, "0.3.0", "59e0637dd03ab3db3322b4c913e27e6d9e5e3ed6bc782fc5f56de486471adb5e", [:mix], []}}
